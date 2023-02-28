@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MikaelFangel
 - 📚 I'm studying software engineering at DTU and is currently doing my 4th semester
-- 🌱 I’m currently learning C, Kotlin, Cryptology and Java
+- 🌱 I’m currently learning C, MPI, OpenMP, Kotlin and Java
 - 💡 I'm intersted in Linux and cyber security
 - 📖 Link to: [my Gists](https://gist.github.com/MikaelFangel)
