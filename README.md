@@ -1,5 +1,5 @@
 ```fsharp
-type PersonalInformation = { name: string; description: string ;mail: string }
+type PersonalInformation = { name: string; description: string; mail: string }
 let myContactDetails =  {
     name = "Mikael Fangel"
     description = "I'm studying software engineering at DTU and I am currently doing my 5th semester"
