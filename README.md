@@ -1,3 +1,4 @@
+## Does it compile?
 ```fsharp
 type PersonalInformation = { name: string; description: string; mail: string }
 let myContactDetails =  {
