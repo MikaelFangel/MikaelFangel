@@ -17,7 +17,7 @@ let mySkillSet = {
     programmingLanguages = [
         (Advanced, [ "Java"; "C"])
         (Intermediate, [ "F#"; "Kotlin"; "Go"; "VBA" ])
-        (Beginner, [ "R"; "Python"; "Bash"; "Awk"; "Nix" ])
+        (Beginner, [ "R"; "Python"; "Bash"; "Awk"; "Nix"; "Elixir" ])
     ]
     technologies = [
         (Advanced, [ "Linux" ])
