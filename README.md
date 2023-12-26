@@ -3,7 +3,7 @@
 type PersonalInformation = { name: string; description: string; mail: string }
 let myContactDetails =  {
     name = "Mikael Fangel"
-    description = "I'm studying software engineering at DTU and I am currently doing an intership with Defensive Group"
+    description = "I'm studying software engineering at DTU and I am currently doing an intership"
     mail = "public.tradition061@passinbox.com"
 }
 
