@@ -21,7 +21,7 @@ let mySkillSet = {
     ]
     technologies = [
         (Advanced, [ "Linux" ])
-        (Intermediate, [ "Docker" ])
+        (Intermediate, [ "Docker"; "SIEM" ])
         (Beginner, [])
     ]
 }
