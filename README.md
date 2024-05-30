@@ -20,9 +20,9 @@ let mySkillSet = {
         (Beginner, [ "R"; "Python"; "Bash"; "Awk"; "Nix"; "Elixir" ])
     ]
     technologies = [
-        (Advanced, [ "Linux" ])
-        (Intermediate, [ "Docker"; "SIEM" ])
-        (Beginner, [])
+        (Advanced, [ "Linux"; "Tines" ])
+        (Intermediate, [ "Docker"; "SIEM"; "Git" ])
+        (Beginner, [ "Firebase" ])
     ]
 }
 
