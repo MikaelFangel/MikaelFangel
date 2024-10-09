@@ -16,8 +16,8 @@ type SkillSet = { programmingLanguages: (LevelOfConfidence * string List) List
 let mySkillSet = {
     programmingLanguages = [
         (Advanced, [ "Java"; "C"])
-        (Intermediate, [ "F#"; "Kotlin"; "Go"; "VBA" ])
-        (Beginner, [ "R"; "Python"; "Bash"; "Awk"; "Nix"; "Elixir" ])
+        (Intermediate, [ "F#"; "Kotlin"; "Elixir"; "VBA"; "C++" ])
+        (Beginner, [ "R"; "Python"; "Bash"; "Awk"; "Nix"; "Go"; "Prolog" ])
     ]
     technologies = [
         (Advanced, [ "Linux"; "Tines" ])
